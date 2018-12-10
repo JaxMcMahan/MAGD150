@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+#MAGD 150
+##Readme File
 
-You can use the [editor on GitHub](https://github.com/JaxMcMahan/MAGD150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This readme file explains pieces of code that I have done in my MAGD 150 class that have been uploaded to this repository
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##f18magdlab03_McMahan
 
-### Markdown
+For this lab I programmed three bubbles: One is controlled by the mouse, one has its height be based on mouseY, and the last one has its width be based on mouseX.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##f18magdlab04_McMahan
 
-```markdown
-Syntax highlighted code block
+This oceanic lab consists of fish that move when a key is pressed, a wave that moves across the screen and changes height based on if the mouse is clicked, and an underwater volcano in the background.
 
-# Header 1
-## Header 2
-### Header 3
+##f18magdlab05_McMahan
 
-- Bulleted
-- List
+Lab 5 is a television set that initialize seems intact that reveals itself to be broken when the ON button is pressed. The OFF button turns the television off an reverts it to a less broken appearance.
 
-1. Numbered
-2. List
+##f18_magd150_lab6_McMahan
 
-**Bold** and _Italic_ and `Code` text
+This lab is a screensaver where various shapes move left, right, up, and down. To be honest the movement could have been diversified, but the program works nonetheless.
 
-[Link](url) and ![Image](src)
-```
+##f18_magd_lab7_McMahan
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JaxMcMahan/MAGD150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The final lab included in this repository is a coded photograph of nature. The mountains, clouds, sun, and pond are all comprised of PVectors that affect their position on the screen.
