@@ -1,4 +1,4 @@
-#MAGD 150
+#MAGD 150  
 ##Readme File
 
 This readme file explains pieces of code that I have done in my MAGD 150 class that have been uploaded to this repository
