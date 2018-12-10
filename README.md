@@ -19,7 +19,7 @@ Lab 5 is a television set that initially seems intact before revealing itself to
 
 This lab is a screensaver where various shapes move left, right, up, and down. To be honest the movement could have been diversified, but the program works nonetheless.
 
-**##[f18_magd_lab7_McMahan]**:(https://github.com/JaxMcMahan/MAGD150/tree/gh-pages/f18_magd_lab7_McMahan)
+**##[f18_magd_lab7_McMahan]**
 
 The final lab included in this repository is a coded photograph of nature. The mountains, clouds, sun, and pond are all comprised of PVectors that affect their position on the screen.
 
